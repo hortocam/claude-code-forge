@@ -1,0 +1,1 @@
+op run --env-file=.env -- ollama launch claude --model qwen3-coder-next:cloud
